@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "cstdio": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstdlib": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "signal.h": "c",
+        "poll.h": "c",
+        "fcntl.h": "c",
+        "stddef.h": "c",
+        "un.h": "c",
+        "in.h": "c",
+        "getopt.h": "c",
+        "unistd.h": "c",
+        "netdb.h": "c",
+        "inet.h": "c"
+    }
+}
